@@ -1,0 +1,19 @@
+header{
+    height: 70px;
+    background-image: url(../img/pattern.png);
+    background-size: 300px;
+    background-color: rgb(78, 160, 255)
+}
+
+footer{
+    width: 200px;
+}
+
+.related1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+}
+.related2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+}
