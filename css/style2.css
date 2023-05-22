@@ -1,0 +1,126 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+header{
+    height: 70px;
+    background-image: url(../img/pattern.png);
+    background-size: 300px;
+    background-color: rgb(78, 160, 255);
+}
+
+main{
+    margin-left: 6%;
+}
+
+footer{
+    margin-left: 6%;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+ul p{
+    padding-left: 0;
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead{
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+
+footer{
+    height: 300px;
+}
+
+.photo-author{
+    margin: 0;
+    font-size: 10px;
+}
+
+.author{
+    font-size: 15px;
+}
+
+.highlighter{
+    background-color: yellow;
+}
+
+.colored{
+    background-color: rgb(177, 229, 242);
+    height: fit-content;
+}
+
+.uncolored{
+    background-color: white;
+    height: fit-content;
+}
+
+.left{
+    text-align: left;
+    width: 25%;
+}
+
+.center{
+    text-align: center;
+    width: 25%;
+}
+
+.right{
+    text-align: left;
+    width: 50%;
+}
+
+.related1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    height: 120px;
+    color: white;
+}
+.related2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    height: 120px;
+    color: white;
+}
+
+
+.related-title{
+    margin-left: 10px;
+}
+
+#img-logo{
+    width: 160px;
+    margin-top: 25px;
+}
+
+#titolo-principale{
+    font-size: 30px;
+    margin-top: 12px;
+    margin-bottom: 3px;
+}
+
+#author-description{
+    color: grey;
+}
+#author-name{
+    color: rgb(52, 172, 225);
+}
+#date{
+    color: grey;
+    margin-bottom: 12px;
+    font-size: 12px;
+}
+
+#suggested{
+    color: grey;
+}
